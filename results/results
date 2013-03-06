@@ -1,0 +1,775 @@
+#
+# Results on Monday September 10 2012 11:33:48 UTC.
+# USER AGENT: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0)
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1347276828,d5061db84d72fedeab3de3451c521e0c,Form,2,0,intro,NULL,age,43
+1347276828,d5061db84d72fedeab3de3451c521e0c,Form,2,0,intro,NULL,write_something,English
+1347276828,d5061db84d72fedeab3de3451c521e0c,Form,2,0,intro,NULL,consent,yes
+1347276828,d5061db84d72fedeab3de3451c521e0c,Form,2,0,intro,NULL,sex,female
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,6,0,p,NULL,Martinez crashed into the wall on the play.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,6,0,p,NULL,NULL,1,NULL,10834
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,7,0,p,NULL,Some bound volumes remained in the library's collection.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,7,0,p,NULL,NULL,7,NULL,5559
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,8,0,p,NULL,He always exuded energy and good cheer.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,8,0,p,NULL,NULL,7,NULL,2394
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,171,0,q4,NULL,He was a waiter.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,171,0,q4,NULL,NULL,6,NULL,4126
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,196,0,q4,NULL,They prescribed you a drug that you could get over the counter.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,196,0,q4,NULL,NULL,1,NULL,5624
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,183,0,q4,NULL,I was on a game show.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,183,0,q4,NULL,NULL,1,NULL,1876
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,190,0,q4,NULL,They asked questions about the mole.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,190,0,q4,NULL,NULL,1,NULL,3834
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,179,0,q4,NULL,I saw you guys graduate from college.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,179,0,q4,NULL,NULL,2,NULL,5524
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,207,0,q4,NULL,You got your password.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,207,0,q4,NULL,NULL,2,NULL,4495
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,217,0,q4,NULL,You treated the symptoms.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,217,0,q4,NULL,NULL,4,NULL,9472
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,184,0,q4,NULL,It caused more problems and more conflict.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,184,0,q4,NULL,NULL,6,NULL,9287
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,219,0,q4,NULL,You were defensive.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,219,0,q4,NULL,NULL,7,NULL,2349
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,215,0,q4,NULL,You stayed inside.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,215,0,q4,NULL,NULL,7,NULL,4506
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,211,0,q4,NULL,You paid your money for a guy who can get himself on base.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,211,0,q4,NULL,NULL,7,NULL,11011
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,194,0,q4,NULL,They killed Americans.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,194,0,q4,NULL,NULL,4,NULL,5602
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,185,0,q4,NULL,It collected newspapers from around the world.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,185,0,q4,NULL,NULL,6,NULL,5561
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,178,0,q4,NULL,I put myself in that situation.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,178,0,q4,NULL,NULL,7,NULL,2518
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,203,0,q4,NULL,We supported him fully right through his worst atrocities.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,203,0,q4,NULL,NULL,7,NULL,5962
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,212,0,q4,NULL,You picked on someone like this right in front of an audience.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,212,0,q4,NULL,NULL,1,NULL,10095
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,216,0,q4,NULL,You stopped by Maxwell Street.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,216,0,q4,NULL,NULL,1,NULL,1920
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,210,0,q4,NULL,You looked like you belong in the clubhouse.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,210,0,q4,NULL,NULL,7,NULL,2932
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,191,0,q4,NULL,They built a bigger stadium with more private boxes.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,191,0,q4,NULL,NULL,4,NULL,5127
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,192,0,q4,NULL,They flew a plane into something.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,192,0,q4,NULL,NULL,1,NULL,2321
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,181,0,q4,NULL,I stood on the porch.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,181,0,q4,NULL,NULL,1,NULL,2530
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,173,0,q4,NULL,I bought a nice car.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,173,0,q4,NULL,NULL,1,NULL,2506
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,182,0,q4,NULL,I took the over-the-counter medicine.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,182,0,q4,NULL,NULL,1,NULL,2156
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,193,0,q4,NULL,They just stuck it in there.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,193,0,q4,NULL,NULL,4,NULL,4061
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,200,0,q4,NULL,We let them.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,200,0,q4,NULL,NULL,7,NULL,3563
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,180,0,q4,NULL,I sent them to click on their television.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,180,0,q4,NULL,NULL,2,NULL,7219
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,213,0,q4,NULL,You pulled the fire alarm.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,213,0,q4,NULL,NULL,1,NULL,1454
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,199,0,q4,NULL,We discussed our topic for ten minutes.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,199,0,q4,NULL,NULL,1,NULL,3773
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,177,0,q4,NULL,I paid the bills
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,177,0,q4,NULL,NULL,1,NULL,2409
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,188,0,q4,NULL,She showed up.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,188,0,q4,NULL,NULL,1,NULL,2741
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,168,0,q4,NULL,He called me.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,168,0,q4,NULL,NULL,1,NULL,2600
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,176,0,q4,NULL,I joined.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,176,0,q4,NULL,NULL,4,NULL,3355
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,170,0,q4,NULL,He played his X-box.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,170,0,q4,NULL,NULL,3,NULL,5053
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,206,0,q4,NULL,You created environment.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,206,0,q4,NULL,NULL,7,NULL,4930
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,209,0,q4,NULL,You just threw it in there.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,209,0,q4,NULL,NULL,6,NULL,5311
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,169,0,q4,NULL,He kept touching himself.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,169,0,q4,NULL,NULL,6,NULL,5361
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,198,0,q4,NULL,We argued.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,198,0,q4,NULL,NULL,2,NULL,3311
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,214,0,q4,NULL,You sat there.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,214,0,q4,NULL,NULL,4,NULL,4830
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,189,0,q4,NULL,The government gave tax breaks for switching.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,189,0,q4,NULL,NULL,6,NULL,6593
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,220,0,q4,NULL,You worked there.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,220,0,q4,NULL,NULL,7,NULL,3216
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,187,0,q4,NULL,She bought stuff for her family.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,187,0,q4,NULL,NULL,2,NULL,4116
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,186,0,q4,NULL,It raised that eyebrow.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,186,0,q4,NULL,NULL,7,NULL,11304
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,202,0,q4,NULL,We stripped some veins out of your left leg and put them in your right leg.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,202,0,q4,NULL,NULL,1,NULL,3462
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,205,0,q4,NULL,We were very sceptical about it.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,205,0,q4,NULL,NULL,7,NULL,4040
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,195,0,q4,NULL,They laughed.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,195,0,q4,NULL,NULL,4,NULL,4131
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,201,0,q4,NULL,We scanned the people as they come through.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,201,0,q4,NULL,NULL,3,NULL,11538
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,218,0,q4,NULL,You were an individual.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,218,0,q4,NULL,NULL,7,NULL,2351
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,208,0,q4,NULL,You just left yourself sensitive to God.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,208,0,q4,NULL,NULL,7,NULL,5743
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,172,0,q4,NULL,He was reasonably attractive.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,172,0,q4,NULL,NULL,7,NULL,2455
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,175,0,q4,NULL,I hung out with my friends=.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,175,0,q4,NULL,NULL,4,NULL,6256
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,197,0,q4,NULL,This President was able to tell you.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,197,0,q4,NULL,NULL,4,NULL,8507
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,204,0,q4,NULL,We supported their countries.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,204,0,q4,NULL,NULL,7,NULL,7481
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,174,0,q4,NULL,I had a toy store.
+1347276828,d5061db84d72fedeab3de3451c521e0c,AcceptabilityJudgment,174,0,q4,NULL,NULL,5,NULL,4791
+#
+# Results on Monday September 10 2012 11:41:14 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:15.0) Gecko/20100101 Firefox/15.0.1
+# Design number was non-random = 1
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1347277275,567c93b9f75f608258a5448cbe3f3309,Form,2,0,intro,NULL,age,44
+1347277275,567c93b9f75f608258a5448cbe3f3309,Form,2,0,intro,NULL,write_something,ENGLISH
+1347277275,567c93b9f75f608258a5448cbe3f3309,Form,2,0,intro,NULL,consent,yes
+1347277275,567c93b9f75f608258a5448cbe3f3309,Form,2,0,intro,NULL,sex,female
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,6,0,p,NULL,Martinez crashed into the wall on the play.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,6,0,p,NULL,NULL,2,NULL,9468
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,7,0,p,NULL,Some bound volumes remained in the library's collection.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,7,0,p,NULL,NULL,7,NULL,7563
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,8,0,p,NULL,He always exuded energy and good cheer.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,8,0,p,NULL,NULL,7,NULL,6759
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,203,0,q4,NULL,We supported him fully right through his worst atrocities.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,203,0,q4,NULL,NULL,7,NULL,5137
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,190,0,q4,NULL,They asked questions about the mole.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,190,0,q4,NULL,NULL,2,NULL,4619
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,193,0,q4,NULL,They just stuck it in there.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,193,0,q4,NULL,NULL,3,NULL,8502
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,205,0,q4,NULL,We were very sceptical about it.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,205,0,q4,NULL,NULL,6,NULL,3443
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,176,0,q4,NULL,I joined.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,176,0,q4,NULL,NULL,2,NULL,3118
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,194,0,q4,NULL,They killed Americans.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,194,0,q4,NULL,NULL,2,NULL,1296
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,204,0,q4,NULL,We supported their countries.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,204,0,q4,NULL,NULL,6,NULL,3599
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,172,0,q4,NULL,He was reasonably attractive.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,172,0,q4,NULL,NULL,7,NULL,2612
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,184,0,q4,NULL,It caused more problems and more conflict.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,184,0,q4,NULL,NULL,6,NULL,3809
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,186,0,q4,NULL,It raised that eyebrow.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,186,0,q4,NULL,NULL,4,NULL,7668
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,169,0,q4,NULL,He kept touching himself.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,169,0,q4,NULL,NULL,3,NULL,6948
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,188,0,q4,NULL,She showed up.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,188,0,q4,NULL,NULL,2,NULL,1973
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,178,0,q4,NULL,I put myself in that situation.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,178,0,q4,NULL,NULL,3,NULL,4129
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,180,0,q4,NULL,I sent them to click on their television.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,180,0,q4,NULL,NULL,2,NULL,3619
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,200,0,q4,NULL,We let them.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,200,0,q4,NULL,NULL,4,NULL,7587
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,220,0,q4,NULL,You worked there.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,220,0,q4,NULL,NULL,6,NULL,2252
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,187,0,q4,NULL,She bought stuff for her family.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,187,0,q4,NULL,NULL,2,NULL,5702
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,211,0,q4,NULL,You paid your money for a guy who can get himself on base.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,211,0,q4,NULL,NULL,1,NULL,6463
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,175,0,q4,NULL,I hung out with my friends=.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,175,0,q4,NULL,NULL,1,NULL,1770
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,207,0,q4,NULL,You got your password.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,207,0,q4,NULL,NULL,2,NULL,2494
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,198,0,q4,NULL,We argued.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,198,0,q4,NULL,NULL,1,NULL,3141
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,185,0,q4,NULL,It collected newspapers from around the world.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,185,0,q4,NULL,NULL,4,NULL,4503
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,202,0,q4,NULL,We stripped some veins out of your left leg and put them in your right leg.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,202,0,q4,NULL,NULL,1,NULL,4550
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,192,0,q4,NULL,They flew a plane into something.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,192,0,q4,NULL,NULL,1,NULL,1685
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,181,0,q4,NULL,I stood on the porch.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,181,0,q4,NULL,NULL,1,NULL,1960
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,191,0,q4,NULL,They built a bigger stadium with more private boxes.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,191,0,q4,NULL,NULL,1,NULL,1459
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,201,0,q4,NULL,We scanned the people as they come through.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,201,0,q4,NULL,NULL,4,NULL,5840
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,215,0,q4,NULL,You stayed inside.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,215,0,q4,NULL,NULL,5,NULL,3452
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,196,0,q4,NULL,They prescribed you a drug that you could get over the counter.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,196,0,q4,NULL,NULL,2,NULL,4910
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,206,0,q4,NULL,You created environment.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,206,0,q4,NULL,NULL,4,NULL,11803
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,209,0,q4,NULL,You just threw it in there.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,209,0,q4,NULL,NULL,3,NULL,4372
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,197,0,q4,NULL,This President was able to tell you.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,197,0,q4,NULL,NULL,6,NULL,3794
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,179,0,q4,NULL,I saw you guys graduate from college.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,179,0,q4,NULL,NULL,3,NULL,12598
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,219,0,q4,NULL,You were defensive.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,219,0,q4,NULL,NULL,6,NULL,2599
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,217,0,q4,NULL,You treated the symptoms.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,217,0,q4,NULL,NULL,3,NULL,4942
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,195,0,q4,NULL,They laughed.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,195,0,q4,NULL,NULL,6,NULL,2682
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,189,0,q4,NULL,The government gave tax breaks for switching.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,189,0,q4,NULL,NULL,6,NULL,3677
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,214,0,q4,NULL,You sat there.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,214,0,q4,NULL,NULL,6,NULL,4088
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,208,0,q4,NULL,You just left yourself sensitive to God.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,208,0,q4,NULL,NULL,6,NULL,3764
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,171,0,q4,NULL,He was a waiter.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,171,0,q4,NULL,NULL,7,NULL,1864
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,173,0,q4,NULL,I bought a nice car.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,173,0,q4,NULL,NULL,2,NULL,3233
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,168,0,q4,NULL,He called me.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,168,0,q4,NULL,NULL,3,NULL,2023
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,183,0,q4,NULL,I was on a game show.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,183,0,q4,NULL,NULL,1,NULL,1516
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,213,0,q4,NULL,You pulled the fire alarm.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,213,0,q4,NULL,NULL,4,NULL,2574
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,218,0,q4,NULL,You were an individual.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,218,0,q4,NULL,NULL,5,NULL,1905
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,216,0,q4,NULL,You stopped by Maxwell Street.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,216,0,q4,NULL,NULL,3,NULL,2395
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,174,0,q4,NULL,I had a toy store.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,174,0,q4,NULL,NULL,4,NULL,2970
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,177,0,q4,NULL,I paid the bills
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,177,0,q4,NULL,NULL,2,NULL,3150
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,212,0,q4,NULL,You picked on someone like this right in front of an audience.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,212,0,q4,NULL,NULL,1,NULL,9443
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,170,0,q4,NULL,He played his X-box.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,170,0,q4,NULL,NULL,2,NULL,3701
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,210,0,q4,NULL,You looked like you belong in the clubhouse.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,210,0,q4,NULL,NULL,7,NULL,2911
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,182,0,q4,NULL,I took the over-the-counter medicine.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,182,0,q4,NULL,NULL,5,NULL,3645
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,199,0,q4,NULL,We discussed our topic for ten minutes.
+1347277275,567c93b9f75f608258a5448cbe3f3309,AcceptabilityJudgment,199,0,q4,NULL,NULL,1,NULL,2381
+#
+# Results on Monday September 10 2012 11:48:26 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1347277707,7d1bd4a47872719e551b274686ae13c4,Form,2,0,intro,NULL,age,35
+1347277707,7d1bd4a47872719e551b274686ae13c4,Form,2,0,intro,NULL,write_something,English, French, German
+1347277707,7d1bd4a47872719e551b274686ae13c4,Form,2,0,intro,NULL,consent,yes
+1347277707,7d1bd4a47872719e551b274686ae13c4,Form,2,0,intro,NULL,sex,female
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,6,0,p,NULL,Martinez crashed into the wall on the play.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,6,0,p,NULL,NULL,3,NULL,19238
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,7,0,p,NULL,Some bound volumes remained in the library's collection.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,7,0,p,NULL,NULL,1,NULL,4922
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,8,0,p,NULL,He always exuded energy and good cheer.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,8,0,p,NULL,NULL,1,NULL,12216
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,201,0,q4,NULL,We scanned the people as they come through.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,201,0,q4,NULL,NULL,1,NULL,3571
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,177,0,q4,NULL,I paid the bills
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,177,0,q4,NULL,NULL,1,NULL,3215
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,218,0,q4,NULL,You were an individual.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,218,0,q4,NULL,NULL,5,NULL,4108
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,196,0,q4,NULL,They prescribed you a drug that you could get over the counter.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,196,0,q4,NULL,NULL,3,NULL,6960
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,198,0,q4,NULL,We argued.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,198,0,q4,NULL,NULL,1,NULL,1628
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,204,0,q4,NULL,We supported their countries.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,204,0,q4,NULL,NULL,5,NULL,2532
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,182,0,q4,NULL,I took the over-the-counter medicine.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,182,0,q4,NULL,NULL,1,NULL,4365
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,178,0,q4,NULL,I put myself in that situation.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,178,0,q4,NULL,NULL,4,NULL,7365
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,215,0,q4,NULL,You stayed inside.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,215,0,q4,NULL,NULL,1,NULL,2071
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,195,0,q4,NULL,They laughed.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,195,0,q4,NULL,NULL,4,NULL,4359
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,188,0,q4,NULL,She showed up.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,188,0,q4,NULL,NULL,1,NULL,2156
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,184,0,q4,NULL,It caused more problems and more conflict.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,184,0,q4,NULL,NULL,6,NULL,4077
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,185,0,q4,NULL,It collected newspapers from around the world.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,185,0,q4,NULL,NULL,5,NULL,1590
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,171,0,q4,NULL,He was a waiter.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,171,0,q4,NULL,NULL,1,NULL,1271
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,181,0,q4,NULL,I stood on the porch.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,181,0,q4,NULL,NULL,1,NULL,2898
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,220,0,q4,NULL,You worked there.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,220,0,q4,NULL,NULL,1,NULL,3931
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,173,0,q4,NULL,I bought a nice car.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,173,0,q4,NULL,NULL,1,NULL,1925
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,169,0,q4,NULL,He kept touching himself.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,169,0,q4,NULL,NULL,1,NULL,1690
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,191,0,q4,NULL,They built a bigger stadium with more private boxes.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,191,0,q4,NULL,NULL,5,NULL,3746
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,211,0,q4,NULL,You paid your money for a guy who can get himself on base.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,211,0,q4,NULL,NULL,3,NULL,5929
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,200,0,q4,NULL,We let them.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,200,0,q4,NULL,NULL,5,NULL,2781
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,197,0,q4,NULL,This President was able to tell you.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,197,0,q4,NULL,NULL,6,NULL,1510
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,212,0,q4,NULL,You picked on someone like this right in front of an audience.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,212,0,q4,NULL,NULL,1,NULL,3886
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,199,0,q4,NULL,We discussed our topic for ten minutes.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,199,0,q4,NULL,NULL,1,NULL,2254
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,203,0,q4,NULL,We supported him fully right through his worst atrocities.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,203,0,q4,NULL,NULL,6,NULL,3083
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,186,0,q4,NULL,It raised that eyebrow.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,186,0,q4,NULL,NULL,2,NULL,3235
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,168,0,q4,NULL,He called me.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,168,0,q4,NULL,NULL,1,NULL,2135
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,205,0,q4,NULL,We were very sceptical about it.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,205,0,q4,NULL,NULL,3,NULL,3046
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,209,0,q4,NULL,You just threw it in there.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,209,0,q4,NULL,NULL,1,NULL,2362
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,174,0,q4,NULL,I had a toy store.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,174,0,q4,NULL,NULL,1,NULL,1520
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,189,0,q4,NULL,The government gave tax breaks for switching.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,189,0,q4,NULL,NULL,7,NULL,2178
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,206,0,q4,NULL,You created environment.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,206,0,q4,NULL,NULL,5,NULL,2837
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,213,0,q4,NULL,You pulled the fire alarm.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,213,0,q4,NULL,NULL,1,NULL,1941
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,214,0,q4,NULL,You sat there.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,214,0,q4,NULL,NULL,1,NULL,813
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,175,0,q4,NULL,I hung out with my friends=.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,175,0,q4,NULL,NULL,1,NULL,2133
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,192,0,q4,NULL,They flew a plane into something.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,192,0,q4,NULL,NULL,5,NULL,2111
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,210,0,q4,NULL,You looked like you belong in the clubhouse.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,210,0,q4,NULL,NULL,1,NULL,1692
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,208,0,q4,NULL,You just left yourself sensitive to God.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,208,0,q4,NULL,NULL,2,NULL,4796
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,180,0,q4,NULL,I sent them to click on their television.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,180,0,q4,NULL,NULL,3,NULL,5974
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,179,0,q4,NULL,I saw you guys graduate from college.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,179,0,q4,NULL,NULL,1,NULL,2666
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,193,0,q4,NULL,They just stuck it in there.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,193,0,q4,NULL,NULL,1,NULL,2005
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,187,0,q4,NULL,She bought stuff for her family.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,187,0,q4,NULL,NULL,1,NULL,1264
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,194,0,q4,NULL,They killed Americans.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,194,0,q4,NULL,NULL,7,NULL,1674
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,176,0,q4,NULL,I joined.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,176,0,q4,NULL,NULL,1,NULL,1518
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,216,0,q4,NULL,You stopped by Maxwell Street.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,216,0,q4,NULL,NULL,1,NULL,1583
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,170,0,q4,NULL,He played his X-box.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,170,0,q4,NULL,NULL,1,NULL,1170
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,190,0,q4,NULL,They asked questions about the mole.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,190,0,q4,NULL,NULL,1,NULL,803
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,219,0,q4,NULL,You were defensive.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,219,0,q4,NULL,NULL,1,NULL,1336
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,217,0,q4,NULL,You treated the symptoms.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,217,0,q4,NULL,NULL,1,NULL,876
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,183,0,q4,NULL,I was on a game show.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,183,0,q4,NULL,NULL,1,NULL,993
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,202,0,q4,NULL,We stripped some veins out of your left leg and put them in your right leg.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,202,0,q4,NULL,NULL,3,NULL,5529
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,207,0,q4,NULL,You got your password.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,207,0,q4,NULL,NULL,1,NULL,1304
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,172,0,q4,NULL,He was reasonably attractive.
+1347277707,7d1bd4a47872719e551b274686ae13c4,AcceptabilityJudgment,172,0,q4,NULL,NULL,1,NULL,1338
+#
+# Results on Monday September 10 2012 11:55:31 UTC.
+# USER AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; WinNT-EVI 28.01.2010; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; yie8)
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1347278131,fa5cf1b2dd596be7716830c326759895,Form,2,0,intro,NULL,age,41
+1347278131,fa5cf1b2dd596be7716830c326759895,Form,2,0,intro,NULL,write_something,English
+1347278131,fa5cf1b2dd596be7716830c326759895,Form,2,0,intro,NULL,consent,yes
+1347278131,fa5cf1b2dd596be7716830c326759895,Form,2,0,intro,NULL,sex,female
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,6,0,p,NULL,Martinez crashed into the wall on the play.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,6,0,p,NULL,NULL,2,NULL,19368
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,7,0,p,NULL,Some bound volumes remained in the library's collection.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,7,0,p,NULL,NULL,6,NULL,11958
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,8,0,p,NULL,He always exuded energy and good cheer.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,8,0,p,NULL,NULL,7,NULL,5548
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,218,0,q4,NULL,You were an individual.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,218,0,q4,NULL,NULL,6,NULL,6339
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,175,0,q4,NULL,I hung out with my friends=.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,175,0,q4,NULL,NULL,2,NULL,10014
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,183,0,q4,NULL,I was on a game show.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,183,0,q4,NULL,NULL,1,NULL,4156
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,172,0,q4,NULL,He was reasonably attractive.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,172,0,q4,NULL,NULL,7,NULL,5809
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,215,0,q4,NULL,You stayed inside.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,215,0,q4,NULL,NULL,3,NULL,5829
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,168,0,q4,NULL,He called me.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,168,0,q4,NULL,NULL,2,NULL,2723
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,180,0,q4,NULL,I sent them to click on their television.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,180,0,q4,NULL,NULL,2,NULL,16213
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,202,0,q4,NULL,We stripped some veins out of your left leg and put them in your right leg.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,202,0,q4,NULL,NULL,1,NULL,5107
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,199,0,q4,NULL,We discussed our topic for ten minutes.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,199,0,q4,NULL,NULL,2,NULL,3625
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,185,0,q4,NULL,It collected newspapers from around the world.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,185,0,q4,NULL,NULL,2,NULL,6900
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,209,0,q4,NULL,You just threw it in there.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,209,0,q4,NULL,NULL,2,NULL,3245
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,210,0,q4,NULL,You looked like you belong in the clubhouse.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,210,0,q4,NULL,NULL,5,NULL,6940
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,219,0,q4,NULL,You were defensive.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,219,0,q4,NULL,NULL,6,NULL,2394
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,214,0,q4,NULL,You sat there.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,214,0,q4,NULL,NULL,4,NULL,8362
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,200,0,q4,NULL,We let them.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,200,0,q4,NULL,NULL,3,NULL,9444
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,204,0,q4,NULL,We supported their countries.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,204,0,q4,NULL,NULL,4,NULL,5048
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,192,0,q4,NULL,They flew a plane into something.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,192,0,q4,NULL,NULL,1,NULL,4737
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,212,0,q4,NULL,You picked on someone like this right in front of an audience.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,212,0,q4,NULL,NULL,2,NULL,7931
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,178,0,q4,NULL,I put myself in that situation.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,178,0,q4,NULL,NULL,3,NULL,7801
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,216,0,q4,NULL,You stopped by Maxwell Street.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,216,0,q4,NULL,NULL,1,NULL,2183
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,208,0,q4,NULL,You just left yourself sensitive to God.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,208,0,q4,NULL,NULL,4,NULL,8583
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,170,0,q4,NULL,He played his X-box.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,170,0,q4,NULL,NULL,1,NULL,1783
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,179,0,q4,NULL,I saw you guys graduate from college.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,179,0,q4,NULL,NULL,2,NULL,5177
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,184,0,q4,NULL,It caused more problems and more conflict.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,184,0,q4,NULL,NULL,6,NULL,5147
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,188,0,q4,NULL,She showed up.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,188,0,q4,NULL,NULL,2,NULL,1832
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,193,0,q4,NULL,They just stuck it in there.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,193,0,q4,NULL,NULL,3,NULL,4136
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,189,0,q4,NULL,The government gave tax breaks for switching.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,189,0,q4,NULL,NULL,3,NULL,8672
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,211,0,q4,NULL,You paid your money for a guy who can get himself on base.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,211,0,q4,NULL,NULL,2,NULL,12157
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,186,0,q4,NULL,It raised that eyebrow.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,186,0,q4,NULL,NULL,3,NULL,12177
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,195,0,q4,NULL,They laughed.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,195,0,q4,NULL,NULL,4,NULL,6269
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,197,0,q4,NULL,This President was able to tell you.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,197,0,q4,NULL,NULL,3,NULL,21881
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,196,0,q4,NULL,They prescribed you a drug that you could get over the counter.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,196,0,q4,NULL,NULL,3,NULL,8752
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,171,0,q4,NULL,He was a waiter.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,171,0,q4,NULL,NULL,4,NULL,5478
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,203,0,q4,NULL,We supported him fully right through his worst atrocities.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,203,0,q4,NULL,NULL,4,NULL,17325
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,176,0,q4,NULL,I joined.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,176,0,q4,NULL,NULL,2,NULL,2173
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,174,0,q4,NULL,I had a toy store.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,174,0,q4,NULL,NULL,4,NULL,5418
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,182,0,q4,NULL,I took the over-the-counter medicine.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,182,0,q4,NULL,NULL,3,NULL,2854
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,181,0,q4,NULL,I stood on the porch.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,181,0,q4,NULL,NULL,5,NULL,4917
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,173,0,q4,NULL,I bought a nice car.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,173,0,q4,NULL,NULL,2,NULL,3695
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,169,0,q4,NULL,He kept touching himself.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,169,0,q4,NULL,NULL,4,NULL,3986
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,191,0,q4,NULL,They built a bigger stadium with more private boxes.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,191,0,q4,NULL,NULL,3,NULL,8963
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,194,0,q4,NULL,They killed Americans.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,194,0,q4,NULL,NULL,2,NULL,6860
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,190,0,q4,NULL,They asked questions about the mole.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,190,0,q4,NULL,NULL,4,NULL,11136
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,198,0,q4,NULL,We argued.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,198,0,q4,NULL,NULL,4,NULL,4386
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,207,0,q4,NULL,You got your password.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,207,0,q4,NULL,NULL,3,NULL,2774
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,201,0,q4,NULL,We scanned the people as they come through.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,201,0,q4,NULL,NULL,3,NULL,7501
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,206,0,q4,NULL,You created environment.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,206,0,q4,NULL,NULL,2,NULL,3345
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,217,0,q4,NULL,You treated the symptoms.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,217,0,q4,NULL,NULL,3,NULL,2825
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,177,0,q4,NULL,I paid the bills
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,177,0,q4,NULL,NULL,2,NULL,3906
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,187,0,q4,NULL,She bought stuff for her family.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,187,0,q4,NULL,NULL,2,NULL,3986
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,220,0,q4,NULL,You worked there.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,220,0,q4,NULL,NULL,3,NULL,4156
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,213,0,q4,NULL,You pulled the fire alarm.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,213,0,q4,NULL,NULL,2,NULL,2784
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,205,0,q4,NULL,We were very sceptical about it.
+1347278131,fa5cf1b2dd596be7716830c326759895,AcceptabilityJudgment,205,0,q4,NULL,NULL,7,NULL,5188
+#
+# Results on Monday September 10 2012 14:56:06 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.0; rv:15.0) Gecko/20100101 Firefox/15.0.1
+# Design number was non-random = 4
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,Form,2,0,intro,NULL,age,28
+1347288966,aa66d4cb6500ca180e5155f94c35e992,Form,2,0,intro,NULL,write_something,English
+1347288966,aa66d4cb6500ca180e5155f94c35e992,Form,2,0,intro,NULL,consent,yes
+1347288966,aa66d4cb6500ca180e5155f94c35e992,Form,2,0,intro,NULL,sex,male
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,6,0,p,NULL,Martinez crashed into the wall on the play.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,6,0,p,NULL,NULL,1,NULL,7189
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,7,0,p,NULL,Some bound volumes remained in the library's collection.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,7,0,p,NULL,NULL,7,NULL,8516
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,8,0,p,NULL,He always exuded energy and good cheer.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,8,0,p,NULL,NULL,7,NULL,4942
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,173,0,q4,NULL,I bought a nice car.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,173,0,q4,NULL,NULL,1,NULL,3844
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,194,0,q4,NULL,They killed Americans.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,194,0,q4,NULL,NULL,2,NULL,6177
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,171,0,q4,NULL,He was a waiter.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,171,0,q4,NULL,NULL,6,NULL,4758
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,169,0,q4,NULL,He kept touching himself.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,169,0,q4,NULL,NULL,7,NULL,3417
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,202,0,q4,NULL,We stripped some veins out of your left leg and put them in your right leg.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,202,0,q4,NULL,NULL,2,NULL,7246
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,220,0,q4,NULL,You worked there.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,220,0,q4,NULL,NULL,3,NULL,5157
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,170,0,q4,NULL,He played his X-box.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,170,0,q4,NULL,NULL,6,NULL,2656
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,208,0,q4,NULL,You just left yourself sensitive to God.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,208,0,q4,NULL,NULL,7,NULL,7775
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,174,0,q4,NULL,I had a toy store.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,174,0,q4,NULL,NULL,1,NULL,2384
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,209,0,q4,NULL,You just threw it in there.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,209,0,q4,NULL,NULL,6,NULL,5952
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,189,0,q4,NULL,The government gave tax breaks for switching.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,189,0,q4,NULL,NULL,2,NULL,4896
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,175,0,q4,NULL,I hung out with my friends=.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,175,0,q4,NULL,NULL,3,NULL,4040
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,178,0,q4,NULL,I put myself in that situation.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,178,0,q4,NULL,NULL,5,NULL,7129
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,188,0,q4,NULL,She showed up.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,188,0,q4,NULL,NULL,2,NULL,2255
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,203,0,q4,NULL,We supported him fully right through his worst atrocities.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,203,0,q4,NULL,NULL,7,NULL,7256
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,180,0,q4,NULL,I sent them to click on their television.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,180,0,q4,NULL,NULL,1,NULL,6689
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,214,0,q4,NULL,You sat there.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,214,0,q4,NULL,NULL,2,NULL,4192
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,219,0,q4,NULL,You were defensive.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,219,0,q4,NULL,NULL,7,NULL,2503
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,185,0,q4,NULL,It collected newspapers from around the world.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,185,0,q4,NULL,NULL,5,NULL,5897
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,190,0,q4,NULL,They asked questions about the mole.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,190,0,q4,NULL,NULL,3,NULL,5670
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,195,0,q4,NULL,They laughed.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,195,0,q4,NULL,NULL,6,NULL,3203
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,179,0,q4,NULL,I saw you guys graduate from college.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,179,0,q4,NULL,NULL,1,NULL,4268
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,182,0,q4,NULL,I took the over-the-counter medicine.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,182,0,q4,NULL,NULL,1,NULL,3910
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,213,0,q4,NULL,You pulled the fire alarm.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,213,0,q4,NULL,NULL,1,NULL,2248
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,210,0,q4,NULL,You looked like you belong in the clubhouse.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,210,0,q4,NULL,NULL,6,NULL,4471
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,187,0,q4,NULL,She bought stuff for her family.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,187,0,q4,NULL,NULL,2,NULL,3901
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,192,0,q4,NULL,They flew a plane into something.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,192,0,q4,NULL,NULL,1,NULL,3641
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,193,0,q4,NULL,They just stuck it in there.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,193,0,q4,NULL,NULL,6,NULL,5873
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,177,0,q4,NULL,I paid the bills
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,177,0,q4,NULL,NULL,1,NULL,2149
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,196,0,q4,NULL,They prescribed you a drug that you could get over the counter.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,196,0,q4,NULL,NULL,2,NULL,9498
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,183,0,q4,NULL,I was on a game show.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,183,0,q4,NULL,NULL,1,NULL,4468
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,218,0,q4,NULL,You were an individual.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,218,0,q4,NULL,NULL,7,NULL,4498
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,172,0,q4,NULL,He was reasonably attractive.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,172,0,q4,NULL,NULL,7,NULL,2273
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,212,0,q4,NULL,You picked on someone like this right in front of an audience.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,212,0,q4,NULL,NULL,3,NULL,7079
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,204,0,q4,NULL,We supported their countries.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,204,0,q4,NULL,NULL,6,NULL,5153
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,181,0,q4,NULL,I stood on the porch.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,181,0,q4,NULL,NULL,5,NULL,3241
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,215,0,q4,NULL,You stayed inside.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,215,0,q4,NULL,NULL,5,NULL,3520
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,217,0,q4,NULL,You treated the symptoms.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,217,0,q4,NULL,NULL,6,NULL,3794
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,207,0,q4,NULL,You got your password.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,207,0,q4,NULL,NULL,3,NULL,2457
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,176,0,q4,NULL,I joined.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,176,0,q4,NULL,NULL,3,NULL,3330
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,186,0,q4,NULL,It raised that eyebrow.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,186,0,q4,NULL,NULL,5,NULL,5310
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,201,0,q4,NULL,We scanned the people as they come through.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,201,0,q4,NULL,NULL,6,NULL,3474
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,191,0,q4,NULL,They built a bigger stadium with more private boxes.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,191,0,q4,NULL,NULL,1,NULL,2475
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,184,0,q4,NULL,It caused more problems and more conflict.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,184,0,q4,NULL,NULL,6,NULL,3923
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,198,0,q4,NULL,We argued.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,198,0,q4,NULL,NULL,7,NULL,3258
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,216,0,q4,NULL,You stopped by Maxwell Street.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,216,0,q4,NULL,NULL,1,NULL,4211
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,205,0,q4,NULL,We were very sceptical about it.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,205,0,q4,NULL,NULL,7,NULL,3216
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,200,0,q4,NULL,We let them.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,200,0,q4,NULL,NULL,6,NULL,4073
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,211,0,q4,NULL,You paid your money for a guy who can get himself on base.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,211,0,q4,NULL,NULL,6,NULL,11219
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,197,0,q4,NULL,This President was able to tell you.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,197,0,q4,NULL,NULL,2,NULL,5380
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,168,0,q4,NULL,He called me.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,168,0,q4,NULL,NULL,3,NULL,3154
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,206,0,q4,NULL,You created environment.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,206,0,q4,NULL,NULL,6,NULL,2846
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,199,0,q4,NULL,We discussed our topic for ten minutes.
+1347288966,aa66d4cb6500ca180e5155f94c35e992,AcceptabilityJudgment,199,0,q4,NULL,NULL,6,NULL,3327
